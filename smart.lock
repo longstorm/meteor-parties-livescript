@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "livescript": {}
+    },
+    "packages": {
+      "livescript": {
+        "git": "https://github.com/digioak/meteor-livescript.git",
+        "tag": "v0.0.4",
+        "commit": "6ff98a79afd5b8cf538143b45435beb3add5c13a"
+      }
+    }
+  }
+}
